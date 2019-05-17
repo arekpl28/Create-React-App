@@ -1,0 +1,36 @@
+button {
+  font-size: 30px;
+  padding: 10px 15px;
+  text-transform: uppercase;
+  background-color: #fff;
+  border: 2px solid black;
+  cursor: pointer;
+  transition: 0.3s
+}
+
+button:hover {
+  background-color: #000;
+  color: white
+}
+
+.users {
+  width: 80%;
+  margin: 50px auto;
+  text-align: center
+}
+
+.user {
+  border-top: 2px solid black
+}
+
+.user img {
+  padding-top: 20px
+}
+
+h1 {
+  text-transform: uppercase;
+}
+
+p {
+  font-size: 25px;
+}
